@@ -9,5 +9,7 @@ I do believe that the best way to showcase earned skills is through projects but
 3. [Data Manipulation in SQL](https://www.datacamp.com/statement-of-accomplishment/course/740d8b4fd15f555283551ea205628aa14a0d2cd1)
 4. [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/statement-of-accomplishment/course/54e566d02681e262ca02b5459e1c7203093d7669)
 5. [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/statement-of-accomplishment/course/214b6e89599503db2fe355b588614a13e710a89a)
+
 Skill Assessment Score:
+![image](https://github.com/dcprecilla/Certificates/blob/main/Assessment.png)
 
