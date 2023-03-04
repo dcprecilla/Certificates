@@ -1,5 +1,5 @@
 # Certificates
-I do believe that the best way to showcase earned skills is through projects but I would like to acknowledge the courses that got me those skills. I have completed various courses from DataCamp, Coursera, Udemy, and Salesforce Trailhead. Training is essential in upskilling, some of these platforms have their own IDEs and I could not capture the exercises, assessments and quizzes that I passed. I have tried my best to document my progress but another way of showing this progress is through the certificates:
+I do believe that the best way to showcase earned skills is through projects but I would like to acknowledge the courses that got me those skills. I have completed various courses from DataCamp and Coursera. Training is essential in upskilling, some of these platforms have their own IDEs and I could not capture the exercises, assessments and quizzes that I passed. I have tried my best to document my progress but another way of showing this progress is through the certificates:
 
 ## DataCamp:
   ### SQL Fundamentals Track: [link to track certificate](https://www.datacamp.com/statement-of-accomplishment/track/bf592fc703fae47f06986e7d24c4344f57a3d66e)
@@ -20,4 +20,13 @@ Skill Assessment Score:
 3. [Applying SQL to Real World Problems](https://www.datacamp.com/statement-of-accomplishment/course/91103aa45da7ff4deb19f39c046b4970c29d9fdc)
 4. [Analyzing Business Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/b5ee34423b4f21a3c23c88ca691b5d11267bfc96)
 5. [Reporting in SQL](https://www.datacamp.com/statement-of-accomplishment/course/46cb0d1c47f500b27a4e0c9997494698c8c76933)
+
+### Python Fundamentals track: [link to certificate](https://www.datacamp.com/statement-of-accomplishment/track/764e4b78af2d8fea1174cc08c0238972afac5ff6)
+- The track has 4 courses that teaches the basics of Python and how it can be used with Data Analysis.
+1. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/bcb275e9a287f4281370dc52c0e652b90ec37d77)
+2. [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/1f42fd1d1cee0092ed2f26fec6d7810b4084cdca)
+3. [Python Data Science Toolbox 1](https://www.datacamp.com/statement-of-accomplishment/course/641054b17bd3fe23e240a8ea83108c6ef561f7ce)
+4. [Python Data Science Toolbox 2](https://www.datacamp.com/statement-of-accomplishment/course/3b76d1786bf5576e32ffb51603c3297384290c4a)
+
+
 
